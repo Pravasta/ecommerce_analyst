@@ -4,6 +4,10 @@
 
 Project ini merupakan, project untuk kelas "Belajar analisis data menggunakan Python" dari Dicoding Indonesia. Project ini menganalisa data E-commerce yang ada di negara Brazil. Dimana database ini merupakan database public.
 
+## Project Show
+
+[Streamlit](https://ecommerce-analyst.streamlit.app/)
+
 ## Project Architecture
 
 - 'assets/' : direktori untuk menyimpan Image, Font, Logo, dll
