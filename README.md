@@ -15,15 +15,18 @@ Project ini merupakan, project untuk kelas "Belajar analisis data menggunakan Py
 - 'README.md' : berkas ini
 
 ## Setup environment
-
-git clone https://github.com/Pravasta/ecommerce_analyst.git
+1. Clone ke direktori yang diinginkan
 ```
-git clone https://github.com/Pravasta/ecommerce_analyst.git
+git clone https://github.com/mhdhfzz/data-analyst-dicoding.git
 ```
-cd/ecommerce_analyst
-'''
+2. Masuk direktori
+```
+cd data-analyst-dicoding
+```
+3. Install requirements dari package yang digunakan
+```
 pip install -r requirements.txt
-'''
+```
 
 ## Run steamlit app
 
